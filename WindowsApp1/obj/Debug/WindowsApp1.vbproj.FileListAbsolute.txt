@@ -1,0 +1,11 @@
+G:\036\project 5\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\036\project 5\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\036\project 5\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\036\project 5\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\036\project 5\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
